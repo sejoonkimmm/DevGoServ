@@ -71,6 +71,18 @@ This project aims to reimagine the 42 Curriculum's C++ Webserv assignment in Go,
       </a>
       <br>GitHub Actions
     </td>
+    <td align="center" width="96">
+      <a href="https://isocpp.org/">
+        <img src="https://isocpp.org/assets/images/cpp_logo.png" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+      <td align="center" width="96px">
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br />Python
+    </td>
   </tr>
 </table>
 
